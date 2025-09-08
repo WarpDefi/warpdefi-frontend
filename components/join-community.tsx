@@ -27,7 +27,7 @@ const socials: {
   },
   {
     name: "X (Twitter)",
-    href: "https://x.com",
+    href: "https://x.com/Warp_Defi",
     icon: <FaXTwitter className="w-6 h-6" />,
     gradient: "from-blue-500/25 via-blue-400/10 to-transparent",
     ring: "ring-blue-400/30",
