@@ -133,7 +133,7 @@ export function Navigation() {
           <div className="hidden md:flex items-center gap-5">
             <div className="flex items-center gap-3">
               <a
-                href="https://x.com"
+                href="https://x.com/Warp_Defi"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Twitter"

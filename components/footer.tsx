@@ -72,7 +72,7 @@ export function Footer() {
               </h3>
               <div className="flex space-x-5">
                 <a
-                  href="https://x.com"
+                  href="https://x.com/Warp_Defi"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 hover:brand-blue-text transition-colors"
