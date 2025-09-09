@@ -96,13 +96,13 @@ export function Hero() {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-10"
             data-delay="400"
           >
-            <Link href="#features">
+            <Link href="https://app.warpdefi.com/">
               <Button
                 size="lg"
                 className="group relative overflow-hidden rounded-full px-10 h-12 bg-gradient-to-r from-[#0554F2] to-[#023cba] hover:from-[#0462ff] hover:to-[#0554F2] transition-all duration-500 text-white font-medium shadow-lg shadow-blue-600/30"
               >
                 <span className="relative z-10 flex items-center tracking-wide text-sm md:text-base">
-                  Launch App
+                  Launch app
                   <ArrowRight className="ml-2 w-4 h-4 transition-transform group-hover:translate-x-1" />
                 </span>
                 <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/20 to-white/0 opacity-0 group-hover:opacity-100 transition-all duration-500" />

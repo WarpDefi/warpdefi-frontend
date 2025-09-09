@@ -152,11 +152,11 @@ export function Navigation() {
               </a>
             </div>
             <Link
-              href="/"
+              href="https://app.warpdefi.com/"
               className="group relative inline-flex items-center gap-1.5 rounded-full border border-[#0554F2]/40 bg-gradient-to-r from-[#0554F2]/25 to-[#023cba]/25 px-5 py-2 text-xs font-medium tracking-wider text-[#0554F2] hover:text-white hover:border-[#0554F2] transition-all overflow-hidden"
             >
               <span className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-r from-transparent via-white/15 to-transparent" />
-              Launch App
+              LAUNCH APP
               <ArrowUpRight className="w-3.5 h-3.5" />
             </Link>
           </div>
