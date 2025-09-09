@@ -87,7 +87,7 @@ export function SupportedNetworks() {
                 <div className="absolute top-4 right-4 flex items-center gap-1">
                   <span className="w-1.5 h-1.5 rounded-full bg-green-400 shadow-[0_0_6px_2px_rgba(34,197,94,0.6)]" />
                   <span className="text-[10px] tracking-wider text-slate-500">
-                    SOON
+                    LIVE
                   </span>
                 </div>
               </div>

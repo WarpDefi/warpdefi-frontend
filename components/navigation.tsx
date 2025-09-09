@@ -133,7 +133,7 @@ export function Navigation() {
           <div className="hidden md:flex items-center gap-5">
             <div className="flex items-center gap-3">
               <a
-                href="https://x.com/Warp_Defi"
+                href="https://x.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Twitter"
@@ -156,7 +156,7 @@ export function Navigation() {
               className="group relative inline-flex items-center gap-1.5 rounded-full border border-[#0554F2]/40 bg-gradient-to-r from-[#0554F2]/25 to-[#023cba]/25 px-5 py-2 text-xs font-medium tracking-wider text-[#0554F2] hover:text-white hover:border-[#0554F2] transition-all overflow-hidden"
             >
               <span className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-r from-transparent via-white/15 to-transparent" />
-              LAUNCH APP
+              Launch App
               <ArrowUpRight className="w-3.5 h-3.5" />
             </Link>
           </div>
@@ -234,7 +234,7 @@ export function Navigation() {
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="inline-flex items-center gap-1 rounded-full border border-[#0554F2]/40 bg-[#0554F2]/10 px-4 py-2 text-sm font-medium text-[#0554F2] hover:border-[#0554F2] hover:text-white transition-colors"
                 >
-                  LAUNCH APP
+                  Launch
                   <ArrowUpRight className="w-3.5 h-3.5" />
                 </Link>
               </div>
