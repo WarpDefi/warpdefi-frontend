@@ -27,7 +27,7 @@ const socials: {
   },
   {
     name: "X (Twitter)",
-    href: "https://x.com",
+    href: "https://x.com/Warp_Defi",
     icon: <FaXTwitter className="w-6 h-6" />,
     gradient: "from-blue-500/25 via-blue-400/10 to-transparent",
     ring: "ring-blue-400/30",
@@ -95,7 +95,8 @@ export function JoinCommunity() {
             Be early. Shape governance, unlock cross‑chain incentives & build
             the future execution layer with us.
           </p>
-          <div className="mt-10 inline-flex items-center gap-3 rounded-full border border-cyan-400/30 bg-gradient-to-r from-cyan-500/15 via-transparent to-blue-500/15 px-7 py-3 text-sm md:text-base font-semibold tracking-wide text-cyan-300 hover:text-white shadow-[0_0_0_1px_rgba(255,255,255,0.05),0_4px_40px_-10px_rgba(0,170,255,0.4)] transition-all hover:border-cyan-400/50 hover:shadow-[0_0_0_1px_rgba(255,255,255,0.12),0_6px_50px_-8px_rgba(0,180,255,0.55)] cursor-pointer">
+          <div className="mt-10 inline-flex items-center gap-3 rounded-full border border-cyan-400/30 bg-gradient-to-r from-cyan-500/15 via-transparent to-blue-500/15 px-7 py-3 text-sm md:text-base font-semibold tracking-wide text-cyan-300 hover:text-white shadow-[0_0_0_1px_rgba(255,255,255,0.05),0_4px_40px_-10px_rgba(0,170,255,0.4)] transition-all hover:border-cyan-400/50 hover:shadow-[0_0_0_1px_rgba(255,255,255,0.12),0_6px_50px_-8px_rgba(0,180,255,0.55)] cursor-pointer" onClick={()=>window.location.href='https://app.warpdefi.com'}
+>
             LAUNCH APP
             <span className="relative flex h-2 w-2">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75" />
